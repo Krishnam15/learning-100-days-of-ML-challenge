@@ -1,7 +1,7 @@
 # 100 Days of Machine Learning Challenge
 
 ## Overview
-This repository captures my machine learning learning journey through a structured series of notebooks and exercises. It follows the spirit of the #100DaysOfML challenge by CampusX — exploring core ML concepts, data handling techniques, and practical implementations in Python. 
+This repository captures my machine learning learning journey through a structured series of notebooks and exercises. It follows the spirit of the **#100DaysOfML** challenge by CampusX — exploring core ML concepts, data handling techniques, and practical implementations in Python. 
 
 ## Topics Covered
 The challenge includes hands-on exploration of key machine learning areas such as:
