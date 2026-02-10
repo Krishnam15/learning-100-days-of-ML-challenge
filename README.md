@@ -1,7 +1,7 @@
 # 100 Days of Machine Learning Challenge
 
 ## Overview
-This repository captures my machine learning learning journey through a structured series of notebooks and exercises. It follows the spirit of the #100DaysOfML challenge — exploring core ML concepts, data handling techniques, and practical implementations in Python. 
+This repository captures my machine learning learning journey through a structured series of notebooks and exercises. It follows the spirit of the #100DaysOfML challenge by CampusX — exploring core ML concepts, data handling techniques, and practical implementations in Python. 
 
 ## Topics Covered
 The challenge includes hands-on exploration of key machine learning areas such as:
@@ -17,17 +17,39 @@ The challenge includes hands-on exploration of key machine learning areas such a
 
 > This structure aligns with common frameworks for progressive ML learning used in community challenges. 
 
-## Tech Stack
-- **Python** – Primary language for data manipulation and model building  
-- **Jupyter Notebook** – Interactive notebooks for walkthroughs and implementation  
-- **Pandas / NumPy / scikit-learn** – Core libraries used throughout the exercises  
+## Tech Stack & Skills
+
+### Programming & Tools
+- **Python**
+- **Jupyter Notebook**
+
+### Data Analysis & Visualization
+- **NumPy**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+
+### Machine Learning Libraries
+- **scikit-learn**
+
+### Machine Learning Models & Algorithms
+- **Linear Regression**
+- **Logistic Regression**
+- **Decision Trees**
+- **K-Nearest Neighbors (KNN)**
+- **Naive Bayes**
+- **Clustering Algorithms** (K-Means, hierarchical basics)
+- **Ensemble Methods**
+  - Random Forest
+  - Gradient Boosting
+  - XGBoost (conceptual and practical usage)
+- **Dimensionality Reduction**
+  - PCA (Principal Component Analysis)
 
 ## Repository Structure
-- `01. Toy Project.ipynb` – Introduction to basics and environment setup  
-- `02. WorkingWithSQL.ipynb` – SQL integration practice  
-- `03. UsingAPIandJSON.ipynb` – API data extraction and JSON handling  
-- `04. WebScrapping.ipynb` – Data collection through scraping  
-- `05–…` – Various notebooks covering preprocessing, feature handling, algorithms, and demos
+- Topic-wise Jupyter notebooks
+- Each notebook focuses on a specific concept or algorithm
+- Practical examples using real-world and toy datasets
 
 Explicitly organizing notebooks by topic helps reinforce learning in a repeatable way.
 
@@ -37,3 +59,8 @@ By working through these notebooks and exercises, I strengthened my understandin
 - Machine learning algorithm theory and practical implementation
 - Model evaluation and comparison methods
 - Real-world dataset handling and exploratory techniques
+
+## Credits
+This repository is based on the **100 Days of Machine Learning** playlist by **CampusX** on YouTube.  
+The content and structure were followed for learning purposes, with all implementations written and practiced independently.
+
